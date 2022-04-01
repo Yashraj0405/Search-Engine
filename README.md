@@ -3,7 +3,6 @@
 Started my coding journey with a course on Udacity that taught me the basics of Python where I had to work on building a mini search engine.
 
 
-What did I learn in this course?
 # What did I learn in this course?
 
 - Lists
